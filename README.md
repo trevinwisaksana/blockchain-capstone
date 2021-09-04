@@ -31,9 +31,11 @@ truffle test ./test/TestSquareVerifier.js
 
 ## Contract Addresses
 
-SolnSquareVerifier: 0x60900cc909F17de6adbE243E08d3F85C939EE878
-Verifier: 0x34d0Dc49018699Be73660676b67Cd6c5BA5fE428
-ERC721Mintable: 0xF9a3811f546b3639fB1e7294efF47A6927Ce3b1F
+`SolnSquareVerifier: 0x60900cc909F17de6adbE243E08d3F85C939EE878`
+
+`Verifier: 0x34d0Dc49018699Be73660676b67Cd6c5BA5fE428`
+
+`ERC721Mintable: 0xF9a3811f546b3639fB1e7294efF47A6927Ce3b1F`
 
 # Project Resources
 
