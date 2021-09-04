@@ -35,8 +35,6 @@ truffle test ./test/TestSquareVerifier.js
 
 `Verifier: 0x34d0Dc49018699Be73660676b67Cd6c5BA5fE428`
 
-`ERC721Mintable: 0xF9a3811f546b3639fB1e7294efF47A6927Ce3b1F`
-
 ## OpenSea Marketplace Collection
 
 https://testnets.opensea.io/collection/udacity-capstone-real-estate
