@@ -38,6 +38,7 @@ truffle test ./test/TestSquareVerifier.js
 ## Contract ABI
 
 SolnSquareVerifier: https://github.com/trevinwisaksana/blockchain-capstone/blob/main/eth-contracts/build/contracts/SolnSquareVerifier.json
+
 Verifier: https://github.com/trevinwisaksana/blockchain-capstone/blob/main/eth-contracts/build/contracts/Verifier.json
 
 ## OpenSea Marketplace Collection
