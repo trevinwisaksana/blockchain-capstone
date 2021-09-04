@@ -16,7 +16,9 @@ To install, download or clone the repo, then:
 To run truffle tests:
 
 `truffle test ./test/TestERC721Mintable.js`
+
 `truffle test ./test/TestSolnSquareVerifier.js`
+
 `truffle test ./test/TestSquareVerifier.js`
 
 # Contract Addresses
