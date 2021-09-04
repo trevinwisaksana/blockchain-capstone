@@ -1,6 +1,6 @@
 # Udacity Blockchain Capstone
 
-A verifiable NFT that can be used to prove ownership of a house.
+A verifiable NFT that can be used to prove ownership of a property.
 
 ## Install
 
