@@ -41,7 +41,7 @@ truffle test ./test/TestSquareVerifier.js
 
 https://testnets.opensea.io/collection/udacity-capstone-real-estate
 
-# Project Resources
+## Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
 * [Visual Studio Code](https://code.visualstudio.com/)
