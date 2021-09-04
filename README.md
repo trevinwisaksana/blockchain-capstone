@@ -35,6 +35,11 @@ truffle test ./test/TestSquareVerifier.js
 
 `Verifier: 0x34d0Dc49018699Be73660676b67Cd6c5BA5fE428`
 
+## Contract ABI
+
+SolnSquareVerifier: https://github.com/trevinwisaksana/blockchain-capstone/blob/main/eth-contracts/build/contracts/SolnSquareVerifier.json
+Verifier: https://github.com/trevinwisaksana/blockchain-capstone/blob/main/eth-contracts/build/contracts/Verifier.json
+
 ## OpenSea Marketplace Collection
 
 https://testnets.opensea.io/collection/udacity-capstone-project
