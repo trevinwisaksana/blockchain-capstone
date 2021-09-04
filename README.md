@@ -8,8 +8,12 @@ This repository contains Smart Contract code in Solidity and tests using Truffle
 
 To install, download or clone the repo, then:
 
-`npm install`
-`truffle compile`
+```
+npm install
+```
+```
+truffle compile
+```
 
 ## Develop Client
 
@@ -25,7 +29,7 @@ truffle test ./test/TestSolnSquareVerifier.js
 truffle test ./test/TestSquareVerifier.js
 ```
 
-# Contract Addresses
+## Contract Addresses
 
 SolnSquareVerifier: 0x60900cc909F17de6adbE243E08d3F85C939EE878
 Verifier: 0x34d0Dc49018699Be73660676b67Cd6c5BA5fE428
