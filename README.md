@@ -37,7 +37,7 @@ truffle test ./test/TestSquareVerifier.js
 
 ## OpenSea Marketplace Collection
 
-https://testnets.opensea.io/collection/udacity-capstone-real-estate
+https://testnets.opensea.io/collection/udacity-capstone-project
 
 ## Project Resources
 
