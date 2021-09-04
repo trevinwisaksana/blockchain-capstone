@@ -39,7 +39,7 @@ truffle test ./test/TestSquareVerifier.js
 
 ## OpenSea Marketplace Collection
 
-https://testnets.opensea.io/collection/real-estate-token-45nejzu0gl
+https://testnets.opensea.io/collection/udacity-capstone-real-estate
 
 # Project Resources
 
