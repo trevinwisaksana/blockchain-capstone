@@ -37,6 +37,10 @@ truffle test ./test/TestSquareVerifier.js
 
 `ERC721Mintable: 0xF9a3811f546b3639fB1e7294efF47A6927Ce3b1F`
 
+## OpenSea Marketplace Collection
+
+https://testnets.opensea.io/collection/real-estate-token-45nejzu0gl
+
 # Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
